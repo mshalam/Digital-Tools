@@ -1,5 +1,5 @@
 # Digital-Tools
-- Link to gif of Final Project: https://dl.dropboxusercontent.com/u/233221248/dtFinalProjectAttempt3.gif
+- Link to gif of Final Project: https://www.dropbox.com/s/epckidsyu9usr0u/dtFinalProjectAttempt3.gif?dl=0
 ##Final Project Description - try to address these points: describe what you want to make 
 
 - I want to make the graphics for a halloween themed iPhone game. 
